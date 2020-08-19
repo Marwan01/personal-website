@@ -5,11 +5,12 @@
     "email": "marwanest@live.fr",
     "picture": "images/mhelali.webp",
     "x_pictureFallback": "images/mhelali.jpg",
-    "x_title": "Hey There! Glad you're here",
-    "summary": "I currently work as a Site Reliability Engineer at Bayer. I used to work at Centene Corporation where I gathered experience as a Full-Stack Software and Web Developer. I graduated from Lindenwood University in 3 years with a 4.0 GPA accompanied by University Honors. Double majored in Computer Science and Mathematics. My proudest academic achievements were the Hackathons I participated in, along with the Audience Choice Award I received for my Quantum Computing Research. My proudest non-academic achievement is the creation and launch of an open source community driven initiative in order to help combat misinformation about Covid-19 called covid-helpline.com ",
+    "x_title": "Mar's Summary:",
+    "summary": "I currently work as a Site Reliability Engineer at Bayer.\n I used to work at Centene Corporation where I gathered experience as a Full-Stack Software and Web Developer.\n I graduated from Lindenwood University in 3 years with a 4.0 GPA accompanied by University Honors.\n Double majored in Computer Science and Mathematics. My proudest academic achievements were the Hackathons I participated in, along with the Audience Choice Award I received for my Quantum Computing Research. \nMy proudest non-academic achievement is the creation and launch of an open source community driven initiative in order to help combat misinformation about Covid-19 called covid-helpline.com ",
     "location": {
-      "country": "United States",
-      "countryCode": "USA"
+      "country": "Online",
+      "countryCode": "USA",
+      "region": "Remote"
     },
     "profiles": [
       {
@@ -34,21 +35,21 @@
   },
   "work": [
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "company": "Bayer",
+      "position": "Site Reliability Engineer",
+      "website": "https://www.bayer.com",
+      "startDate": "2020-08-17",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Work with distributed systems and databases. Build and operate fault-tolerant, distributed, cloud-based systems. Design, build, and operate Big Data, stream processes, and/or enterprise data integration solutions, Make use of container technologies (Docker), service orchestration and micro services architectures, Implement monitoring and logging to our platforms",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "company": "Centene Corporation",
+      "position": "Software Developer",
+      "website": "https://www.centene.com",
+      "startDate": "2019-08-11",
+      "endDate": "2020-08-14",
+      "summary": "I worked within the CAPI team as a full stack developer. I created, developed, maintained, and scaled angular applications as my front-end work, while using Golang and MongoDB to accomplish back-end tasks. I also focused on catching up with our technological debt by writing unit and integration tests. I got to use many new libraries and learn awesome industry-level concepts and skills such as containerization and container management using Docker and Kubernetes.",
       "highlights": []
     },
     {
