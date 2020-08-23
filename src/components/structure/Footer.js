@@ -7,9 +7,7 @@ function Footer() {
         <p>
           Forked From 
           <a href="https://github.com/jcoelho93/personal-website" className="has-text-white">
-            
-           <strong>José Coelho</strong>
-           {/* <i className="fas fa-moon"></i>  */}
+            personal-website created at <i className="fas fa-moon"></i> by <strong>José Coelho</strong>
           </a>
         </p>
         {/* <p>
