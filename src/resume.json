@@ -96,23 +96,28 @@
   ],
   "skills": [
     {
-      "name": "Jenkins",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
       "name": "Kafka",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
       "level": "Advanced",
       "keywords": ["DevOps"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Advanced",
       "keywords": ["DevOps"]
     },
     {
@@ -123,11 +128,6 @@
     {
       "name": "AWS",
       "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Kubernetes",
-      "level": "Intermediate",
       "keywords": ["DevOps"]
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "name": "MongoDB",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Software Developer"]
     }
   ],
@@ -195,7 +195,7 @@
     },
     {
       "name": "Tennis",
-      "x_icon": "fa-tennis-ball"
+      "x_icon": "fa-table-tennis"
     },
     {
       "name": "Hackathons",
