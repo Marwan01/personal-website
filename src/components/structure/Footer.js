@@ -8,9 +8,10 @@ function Footer() {
           Built at <i className="fas fa-moon"></i> by{" "}
           <a href="https://github.com/jcoelho93" className="has-text-white">
             <strong>José Coelho</strong>
+            forked by <strong>Marouen Helali</strong>
           </a>
         </p>
-        <p>
+        {/* <p>
           <img
             width="512"
             height="96"
@@ -18,7 +19,7 @@ function Footer() {
             className="bulma-image"
             alt=""
           />
-        </p>
+        </p> */}
       </div>
     </footer>
   );

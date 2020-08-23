@@ -8,7 +8,7 @@ class Articles extends Component {
   }
 
   componentDidMount() {
-    const devTo = "https://dev.to/api/articles?username=jcoelho";
+    const devTo = "https://dev.to/api/articles?username=Marwan01";
 
     fetch(devTo)
       .then(response => {

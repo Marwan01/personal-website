@@ -6,7 +6,7 @@
     "picture": "images/mhelali.webp",
     "x_pictureFallback": "images/mhelali.jpg",
     "x_title": "whoami",
-    "summary": "I currently work as a Site Reliability Engineer at Bayer.\n I used to work at Centene Corporation where I gathered experience as a Full-Stack Software and Web Developer.\n I graduated from Lindenwood University in 3 years with a 4.0 GPA accompanied by University Honors.\n Double majored in Computer Science and Mathematics. My proudest academic achievements were the Hackathons I participated in, along with the Audience Choice Award I received for my Quantum Computing Research. \nMy proudest non-academic achievement is the creation and launch of an open source community driven initiative in order to help combat misinformation about Covid-19 called covid-helpline.com ",
+    "summary": "I am a Site Reliability Engineer at Bayer.\n I previously worked at Centene Corporation where I gathered experience as a Full-Stack Software and Web Developer.\n\n I graduated from Lindenwood University in 3 years with a 4.0 GPA accompanied by University Honors.\n Double majored in Computer Science and Mathematics. My proudest academic achievements were the Hackathons I participated in, along with the Audience Choice Award I received for my Quantum Computing Research. \nMy proudest non-academic achievement is the creation and launch of an open source community driven initiative in order to help combat misinformation about Covid-19 called covid-helpline.com ",
     "location": {
       "country": "Online",
       "countryCode": "USA",
@@ -53,30 +53,30 @@
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
+      "company": "Lindenwood University",
+      "position": "Research Assistant - Mobile App Developer",
+      "website": "https://www.lindenoowd.edu",
+      "startDate": "2018-07-20",
+      "endDate": "2019-05-10",
+      "summary": "Worked on adding/removing content on the Android app used by the school of education for research on early stages of Autism. Created landing web page for the Android application. Created terms of use, privacy policies, and disclaimers. Distributed application to users and troubleshooted issues",
       "highlights": []
     },
     {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
+      "company": "Centene Corporation",
+      "position": "IT Intern",
+      "website": "https://www.centene.com",
+      "startDate": "2018-05-20",
+      "endDate": "2019-05-10",
+      "summary": "Worked within the Centene API team on cloud native applications. My team used the Agile Methodology. Learned and developed front end applications using TypeScript, and Angular. Created Angular components, services, and pipes. Implemented e2e and unit tests using Protractor and Karma. In order to diversify my experience, I worked with the backend team on creating Restful APIs to connect to mongoDB servers using the Go language. Attended SSG Security bootcamp where I learned about application security and input validation. Learned about the containerization of apps using docker. Finally, I took my Ping Pong skills to another level through playing with coworkers during breaks.",
       "highlights": []
     },
     {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "company": "Lindenwood University",
+      "position": "Mathematics and Computer Science Tutor",
+      "website": "https://www.lindenoowd.edu",
+      "startDate": "2016-12-15",
+      "endDate": "2018-05-10",
+      "summary": "Guided students in the correct direction for the application of coding in various languages; Java, JavaScript, C++. Helped building simulations and games with Java using Greenfoot. Aided on building static websites and basic web applications using HTML, CSS and JavaScript. Tutored different mathematics classes such as College Algebra, PreCalculus, Calculus I to III, Advanced Calculus, and Discrete Structures.",
       "highlights": []
     }
   ],
@@ -97,11 +97,11 @@
   "skills": [
     {
       "name": "Jenkins",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": ["DevOps"]
     },
     {
-      "name": "Continuous Integration",
+      "name": "Kafka",
       "level": "Advanced",
       "keywords": ["DevOps"]
     },
@@ -111,23 +111,23 @@
       "keywords": ["DevOps"]
     },
     {
-      "name": "Containers",
+      "name": "Docker",
       "level": "Intermediate",
       "keywords": ["DevOps"]
     },
     {
-      "name": "Cloud",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Troubleshooting",
+      "name": "GCP",
       "level": "Advanced",
       "keywords": ["DevOps"]
     },
     {
-      "name": "Infrastructure as Code",
+      "name": "AWS",
       "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
       "keywords": ["DevOps"]
     },
     {
@@ -136,13 +136,13 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Design Patterns",
+      "name": "Go",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": ["Software Developer"]
     },
     {
@@ -151,12 +151,12 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Unit Testing",
+      "name": "Angular",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MySQL",
+      "name": "NodeJS",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
@@ -186,20 +186,20 @@
   ],
   "interests": [
     {
-      "name": "Travel bug",
+      "name": "Traveling",
       "x_icon": "fa-globe-africa"
     },
     {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
+      "name": "Swimming",
+      "x_icon": "fa-fish"
     },
     {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
+      "name": "Tennis",
+      "x_icon": "fa-tennis-ball"
     },
     {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
+      "name": "Hackathons",
+      "x_icon": "fa-laptop"
     }
   ]
 }
