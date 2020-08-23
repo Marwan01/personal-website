@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer has-background-link">
       <div className="content has-text-centered has-text-white">
         <p>
-          Forked From <a href="https://github.com/jcoelho93/personal-website" className="has-text-white"> Repo personal-website created at <i className="fas fa-moon"></i> by <strong>José Coelho</strong>
+          Forked from <a href="https://github.com/jcoelho93/personal-website" className="has-text-white"> personal-website repository created at <i className="fas fa-moon"></i> by <strong>José Coelho</strong>
           </a>
         </p>
         {/* <p>
