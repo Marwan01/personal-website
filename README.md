@@ -1,4 +1,4 @@
-# Personal website Fork from jcoelho93 
+# Personal website fork from jcoelho93 
 
 https://github.com/jcoelho93/personal-website
 
