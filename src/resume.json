@@ -30,6 +30,12 @@
         "username": "Marwan01",
         "url": "https://github.com/Marwan01",
         "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Twitter",
+        "username": "Marwanest1",
+        "url": "https://github.com/marwanest1",
+        "x_icon": "fab fa-2x fa-twitter"
       }
     ]
   },
