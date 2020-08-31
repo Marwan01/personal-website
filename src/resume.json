@@ -54,9 +54,9 @@
     },
     {
       "company": "Lindenwood University",
-      "position": "Research Assistant - Mobile App Developer",
+      "position": "Research Assistant",
       "website": "https://www.lindenoowd.edu",
-      "startDate": "2018-08-20",
+      "startDate": "2018-07-20",
       "endDate": "2019-05-10",
       "summary": "Worked on adding/removing content on the Android app used by the school of education for research on early stages of Autism. Created landing web page for the Android application. Created terms of use, privacy policies, and disclaimers. Distributed application to users and troubleshooted issues",
       "highlights": []
@@ -65,8 +65,8 @@
       "company": "Centene Corporation",
       "position": "IT Intern",
       "website": "https://www.centene.com",
-      "startDate": "2018-05-20",
-      "endDate": "2018-08-10",
+      "startDate": "2018-05-01",
+      "endDate": "2018-06-10",
       "summary": "Worked within the Centene API team on cloud native applications. My team used the Agile Methodology. Learned and developed front end applications using TypeScript, and Angular. Created Angular components, services, and pipes. Implemented e2e and unit tests using Protractor and Karma. In order to diversify my experience, I worked with the backend team on creating Restful APIs to connect to mongoDB servers using the Go language. Attended SSG Security bootcamp where I learned about application security and input validation. Learned about the containerization of apps using docker. Finally, I took my Ping Pong skills to another level through playing with coworkers during breaks.",
       "highlights": []
     },
@@ -75,7 +75,7 @@
       "position": "Mathematics and Computer Science Tutor",
       "website": "https://www.lindenoowd.edu",
       "startDate": "2016-12-15",
-      "endDate": "2018-05-10",
+      "endDate": "2017-05-10",
       "summary": "Guided students in the correct direction for the application of coding in various languages; Java, JavaScript, C++. Helped building simulations and games with Java using Greenfoot. Aided on building static websites and basic web applications using HTML, CSS and JavaScript. Tutored different mathematics classes such as College Algebra, PreCalculus, Calculus I to III, Advanced Calculus, and Discrete Structures.",
       "highlights": []
     }
