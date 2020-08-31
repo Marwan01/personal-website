@@ -56,7 +56,7 @@
       "company": "Lindenwood University",
       "position": "Research Assistant - Mobile App Developer",
       "website": "https://www.lindenoowd.edu",
-      "startDate": "2018-07-20",
+      "startDate": "2018-08-20",
       "endDate": "2019-05-10",
       "summary": "Worked on adding/removing content on the Android app used by the school of education for research on early stages of Autism. Created landing web page for the Android application. Created terms of use, privacy policies, and disclaimers. Distributed application to users and troubleshooted issues",
       "highlights": []
@@ -66,7 +66,7 @@
       "position": "IT Intern",
       "website": "https://www.centene.com",
       "startDate": "2018-05-20",
-      "endDate": "2019-05-10",
+      "endDate": "2018-08-10",
       "summary": "Worked within the Centene API team on cloud native applications. My team used the Agile Methodology. Learned and developed front end applications using TypeScript, and Angular. Created Angular components, services, and pipes. Implemented e2e and unit tests using Protractor and Karma. In order to diversify my experience, I worked with the backend team on creating Restful APIs to connect to mongoDB servers using the Go language. Attended SSG Security bootcamp where I learned about application security and input validation. Learned about the containerization of apps using docker. Finally, I took my Ping Pong skills to another level through playing with coworkers during breaks.",
       "highlights": []
     },
