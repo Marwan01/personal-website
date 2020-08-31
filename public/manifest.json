@@ -1,6 +1,6 @@
 {
-  "short_name": "José Coelho",
-  "name": "José Coelho | DevOps Engineer | Madeira Island, Portugal",
+  "short_name": "Marouen Helali",
+  "name": "Marouen Helali | Site Reliability Engineer | Remote, Online",
   "icons": [
     {
       "src": "images/favicon/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#3273DC",
+  "theme_color": "chocolate",
   "background_color": "#ffffff"
 }
