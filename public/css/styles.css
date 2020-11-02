@@ -9,11 +9,18 @@ html {
     margin: 30px 0 0 0;
 }
 .has-bg-image {
-    background-image: url('../images/marbg.jpg'), url('../images/marbg.jpg');
+    background-image: url('../images/marbg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
+
+@media screen and (max-width: 480px) {
+    .has-bg-image {
+        background-image: url('../images/small.png');
+    }
+}
+
 .bulma-image {
     width: 200px;
 }
