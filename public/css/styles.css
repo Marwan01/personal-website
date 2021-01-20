@@ -15,11 +15,24 @@ html {
     background-size: cover;
 }
 
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     .has-bg-image {
         background-image: url('../images/small.png');
     }
+} */
+
+.has-background-link {
+    background-color: #0A80C3!important;
 }
+
+.has-background-white {
+    background-color: #F6F1F1!important;
+}
+
+.has-text-link {
+    color: #0A80C3!important;
+}
+
 
 .bulma-image {
     width: 200px;

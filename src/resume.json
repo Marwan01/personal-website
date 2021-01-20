@@ -5,8 +5,8 @@
     "email": "marwanest@live.fr",
     "picture": "images/mhelali.webp",
     "x_pictureFallback": "images/mhelali.jpg",
-    "x_title": "whoami",
-    "summary": "I am a Site Reliability Engineer at Bayer.\n I previously worked at Centene Corporation where I gathered experience as a Full-Stack Software and Web Developer.\n\n I graduated from Lindenwood University in 3 years with a 4.0 GPA accompanied by University Honors.\n Double majored in Computer Science and Mathematics. My proudest academic achievements were the Hackathons I participated in, along with the Audience Choice Award I received for my Quantum Computing Research. \nMy proudest non-academic achievement is the creation and launch of an open source community driven initiative in order to help combat misinformation about Covid-19 called covid-helpline.com ",
+    "x_title": "About Me",
+    "summary": "Hi, my name is Mar and I am a Site Reliability Engineer working for Bayer. After graduating from Lindenwood University with a double major in Computer Science and Mathematics, I worked as a Software Developer, creating and maintaining web platforms in the Healthcare industry. A year forward to today, I have transitioned into the field of DevOps and Cloud Architecture with my new role as a Site Reliability Engineer for Bayer. I have gained additional experience by working with a few open-source and nonprofit projects. ",
     "location": {
       "country": "Online",
       "countryCode": "USA",
@@ -14,10 +14,10 @@
     },
     "profiles": [
       {
-        "network": "DEV Community",
-        "username": "marwan01",
-        "url": "https://dev.to/marwan01",
-        "x_icon":"fab fa-2x fa-dev"
+        "network": "Twitter",
+        "username": "HelaliMarouen",
+        "url": "https://twitter.com/HelaliMarouen",
+        "x_icon": "fab fa-2x fa-twitter"
       },
       {
         "network": "LinkedIn",
@@ -26,16 +26,16 @@
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
+        "network": "DEV Community",
+        "username": "marwan01",
+        "url": "https://dev.to/marwan01",
+        "x_icon":"fab fa-2x fa-dev"
+      },
+      {
         "network": "GitHub",
         "username": "Marwan01",
         "url": "https://github.com/Marwan01",
         "x_icon": "fab fa-2x fa-github"
-      },
-      {
-        "network": "Twitter",
-        "username": "HelaliMarouen",
-        "url": "https://twitter.com/HelaliMarouen",
-        "x_icon": "fab fa-2x fa-twitter"
       }
     ]
   },
