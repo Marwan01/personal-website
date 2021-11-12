@@ -104,7 +104,7 @@
   "skills": [
     {
       "name": "GCP",
-      "level": "Certified",
+      "level": "Advanced",
       "keywords": ["Ops", "Cloud"]
     },
     {
@@ -113,9 +113,9 @@
       "keywords": ["Ops", "IaC", "Infrastructure As Code"]
     },
     {
-      "name": "Golang",
-      "level": "Intermediate",
-      "keywords": ["Dev", "CLI", "Backend", "API"]
+      "name": "Bash",
+      "level": "Advanced",
+      "keywords": ["Ops"]
     },
     {
       "name": "Docker",
@@ -128,19 +128,19 @@
       "keywords": ["Ops"]
     },
     {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["Ops"]
+    },
+    {
       "name": "AWS",
       "level": "Basic",
       "keywords": ["Ops"]
     },
     {
-      "name": "gRPC",
-      "level": "Basic",
-      "keywords": ["Dev"]
-    },
-    {
-      "name": "Bash",
+      "name": "Golang",
       "level": "Advanced",
-      "keywords": ["Ops"]
+      "keywords": ["Dev", "CLI", "Backend", "API"]
     },
     {
       "name": "Git",
@@ -153,11 +153,6 @@
       "keywords": ["Dev"]
     },
     {
-      "name": "Jenkins",
-      "level": "Intermediate",
-      "keywords": ["Ops"]
-    },
-    {
       "name": "Angular",
       "level": "Intermediate",
       "keywords": ["Dev"]
@@ -165,6 +160,11 @@
     {
       "name": "NodeJS",
       "level": "Intermediate",
+      "keywords": ["Dev"]
+    },
+    {
+      "name": "gRPC",
+      "level": "Basic",
       "keywords": ["Dev"]
     },
     {
