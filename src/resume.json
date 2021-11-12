@@ -46,7 +46,7 @@
       "website": "https://www.bayer.com",
       "startDate": "2020-08-17",
       "endDate": "",
-      "summary": "Work with distributed systems and databases. Build and operate fault-tolerant, distributed, cloud-based systems. Design, build, and operate Big Data, stream processes, and/or enterprise data integration solutions, Make use of container technologies (Docker), service orchestration and micro services architectures, Implement monitoring and logging to our platforms",
+      "summary": "Focus on CI/CD to improve our development process. Automation our infrastructure creation and destruction via terraform to generate ephemeral resources. Build and operate fault-tolerant, distributed, cloud-based systems. Design, build, and operate Big Data, stream processes, and/or enterprise data integration solutions, Make use of container technologies (Docker), service orchestration and micro services architectures",
       "highlights": []
     },
     {
@@ -96,39 +96,35 @@
       "courses": [
         "Object Oriented Programming",
         "Database Management Systems",
-        "Operating systems and computers architectures"
+        "Operating systems and computers architectures",
+        "Advanced Caluclus"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Kafka",
+      "name": "GCP",
+      "level": "Certified",
+      "keywords": ["DevOps", "Cloud"]
+    },
+    {
+      "name": "Terraform",
       "level": "Advanced",
-      "keywords": ["DevOps"]
+      "keywords": ["IaC", "Infrastructure As Code"]
+    },
+    {
+      "name": "Golang",
+      "level": "Intermediate",
+      "keywords": ["Software Developer", "CLI", "Backend", "API"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
-      "keywords": ["DevOps"]
+      "keywords": ["DevOps", "Container", "Containerization"]
     },
     {
       "name": "Kubernetes",
       "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Jenkins",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "GCP",
-      "level": "Advanced",
       "keywords": ["DevOps"]
     },
     {
@@ -137,14 +133,14 @@
       "keywords": ["DevOps"]
     },
     {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
+      "name": "gRPC",
+      "level": "Basic",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Go",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "Bash",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
     },
     {
       "name": "Git",
@@ -152,9 +148,14 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "REST API",
+      "name": "REST APIs",
       "level": "Advanced",
       "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
     },
     {
       "name": "Angular",
@@ -178,30 +179,26 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Arabic",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "French",
       "fluency": "Fluent speaker"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate speaker"
+      "fluency": "Basic speaker"
     }
   ],
   "interests": [
     {
-      "name": "Traveling",
-      "x_icon": "fa-globe-africa"
+      "name": "Writing",
+      "x_icon": "fa-globe-document"
     },
     {
-      "name": "Swimming",
-      "x_icon": "fa-fish"
+      "name": "Open Source",
+      "x_icon": "fa-laptop"
     },
     {
-      "name": "Tennis",
-      "x_icon": "fa-table-tennis"
+      "name": "Automation",
+      "x_icon": "fa-table-robot"
     },
     {
       "name": "Hackathons",
