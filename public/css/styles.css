@@ -14,13 +14,6 @@ html {
     background-attachment: fixed;
     background-size: cover;
 }
-
-/* @media screen and (max-width: 480px) {
-    .has-bg-image {
-        background-image: url('../images/small.png');
-    }
-} */
-
 .has-background-link {
     background-color: #363636!important;
 }
