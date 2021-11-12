@@ -45,6 +45,10 @@ html {
     background-color: #69c2c2;
 }
 
+.timeline .timeline-item .timeline-marker.is-image {
+    background-color: #69c2c2;
+}
+
 .bulma-image {
     width: 200px;
 }
