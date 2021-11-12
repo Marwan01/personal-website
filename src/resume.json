@@ -105,72 +105,72 @@
     {
       "name": "GCP",
       "level": "Certified",
-      "keywords": ["DevOps", "Cloud"]
+      "keywords": ["Ops", "Cloud"]
     },
     {
       "name": "Terraform",
       "level": "Advanced",
-      "keywords": ["IaC", "Infrastructure As Code"]
+      "keywords": ["Ops", "IaC", "Infrastructure As Code"]
     },
     {
       "name": "Golang",
       "level": "Intermediate",
-      "keywords": ["Software Developer", "CLI", "Backend", "API"]
+      "keywords": ["Dev", "CLI", "Backend", "API"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
-      "keywords": ["DevOps", "Container", "Containerization"]
+      "keywords": ["Ops", "Container", "Containerization"]
     },
     {
       "name": "Kubernetes",
       "level": "Intermediate",
-      "keywords": ["DevOps"]
+      "keywords": ["Ops"]
     },
     {
       "name": "AWS",
       "level": "Basic",
-      "keywords": ["DevOps"]
+      "keywords": ["Ops"]
     },
     {
       "name": "gRPC",
       "level": "Basic",
-      "keywords": ["Software Developer"]
+      "keywords": ["Dev"]
     },
     {
       "name": "Bash",
       "level": "Advanced",
-      "keywords": ["DevOps"]
+      "keywords": ["Ops"]
     },
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": ["Dev"]
     },
     {
       "name": "REST APIs",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": ["Dev"]
     },
     {
       "name": "Jenkins",
       "level": "Intermediate",
-      "keywords": ["DevOps"]
+      "keywords": ["Ops"]
     },
     {
       "name": "Angular",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Dev"]
     },
     {
       "name": "NodeJS",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Dev"]
     },
     {
       "name": "MongoDB",
       "level": "Basic",
-      "keywords": ["Software Developer"]
+      "keywords": ["Dev"]
     }
   ],
   "languages": [
