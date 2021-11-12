@@ -35,6 +35,7 @@ html {
 
 .green {
     background-color: #386D6A!important;
+    color: #d2ecf1
 }
 
 .tag:not(body).is-success{
