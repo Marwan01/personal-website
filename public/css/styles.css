@@ -37,6 +37,10 @@ html {
     background-color: #386D6A!important;
 }
 
+.is-success{
+    background-color: #69c2c2;
+    color: #fff;
+}
 
 .bulma-image {
     width: 200px;
