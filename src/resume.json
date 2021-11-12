@@ -190,15 +190,15 @@
   "interests": [
     {
       "name": "Writing",
-      "x_icon": "fa-globe-document"
+      "x_icon": "fa-medium-m"
     },
     {
       "name": "Open Source",
-      "x_icon": "fa-laptop"
+      "x_icon": "fa-hands-helping"
     },
     {
       "name": "Automation",
-      "x_icon": "fa-table-robot"
+      "x_icon": "fa-robot"
     },
     {
       "name": "Hackathons",
