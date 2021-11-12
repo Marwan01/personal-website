@@ -39,7 +39,10 @@ html {
 
 .tag:not(body).is-success{
     background-color: #69c2c2;
-    color: #fff;
+}
+
+.timeline.is-centered .timeline-item.is-success::before {
+    background-color: #69c2c2;
 }
 
 .bulma-image {
