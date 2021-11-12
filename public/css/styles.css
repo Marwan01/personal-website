@@ -30,7 +30,7 @@ html {
 }
 
 .has-text-link {
-    color: #386D6A!important;
+    color: #5eb7dd!important;
 }
 
 
@@ -40,7 +40,7 @@ html {
 .interests {
     display: flex;
     justify-content: center;
-    background-color: #386D6A;
+    color: #386D6A!important;
 }
 .summary-text {
     margin-left: auto;
