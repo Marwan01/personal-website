@@ -49,6 +49,11 @@ html {
     background-color: #69c2c2;
 }
 
+.timeline .timeline-item .timeline-marker.is-success {
+    background-color: #69c2c2!important;
+    border-color: #69c2c2!important;
+}
+
 .bulma-image {
     width: 200px;
 }
