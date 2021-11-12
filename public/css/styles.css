@@ -26,10 +26,10 @@ html {
     color: #386D6A!important;
 }
 
-.green {
+/* .green {
     background-color: #386D6A!important;
     color: #d2ecf1
-}
+} */
 
 .tag:not(body).is-success{
     background-color: #69c2c2;
@@ -48,9 +48,9 @@ html {
     border-color: #69c2c2!important;
 }
 
-a {
+/* a {
     color: #16324f
-}
+} */
 
 .bulma-image {
     width: 200px;
