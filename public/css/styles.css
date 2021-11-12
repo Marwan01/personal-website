@@ -40,6 +40,7 @@ html {
 .interests {
     display: flex;
     justify-content: center;
+    background-color: #386D6A;
 }
 .summary-text {
     margin-left: auto;
