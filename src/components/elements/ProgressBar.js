@@ -12,7 +12,7 @@ function ProgressBar(props) {
       <span className="title is-5 is-spaced">{props.text}</span>
       <span className="subtitle is-6 skill-percentage">{props.level}</span>
       <progress
-        className="progress progress-blue"
+        className="progress"
         value={progress[props.level]}
         max="100"
       >
