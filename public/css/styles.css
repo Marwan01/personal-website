@@ -43,6 +43,11 @@ html {
     border-color: #69c2c2;
 }
 
+.progress-blue {
+    background-color: #16324f;
+    color: #16324f;
+}
+
 .timeline .timeline-item .timeline-marker.is-success {
     background-color: #69c2c2!important;
     border-color: #69c2c2!important;
