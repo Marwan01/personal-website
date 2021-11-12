@@ -46,7 +46,7 @@ html {
 }
 
 .timeline .timeline-item .timeline-marker.is-image {
-    background-color: #69c2c2;
+    border-color: #69c2c2;
 }
 
 .timeline .timeline-item .timeline-marker.is-success {
