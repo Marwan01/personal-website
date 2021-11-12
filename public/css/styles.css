@@ -54,6 +54,10 @@ html {
     border-color: #69c2c2!important;
 }
 
+a {
+    color: #d2ecf1
+}
+
 .bulma-image {
     width: 200px;
 }
