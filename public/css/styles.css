@@ -40,7 +40,10 @@ html {
 .interests {
     display: flex;
     justify-content: center;
-    color: #386D6A!important;
+
+}
+.is-success {
+    background-color: #386D6A!important;
 }
 .summary-text {
     margin-left: auto;
