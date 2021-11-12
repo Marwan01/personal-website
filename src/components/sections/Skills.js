@@ -4,7 +4,7 @@ import Resume from "../../resume.json";
 
 function Skills() {
   return (
-    <section className="section" id="skills">
+    <section className="section" id="skills has-background-lighter-gray">
       <div className="container">
         <h1 className="title">Skills</h1>
         <div className="columns">

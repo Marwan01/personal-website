@@ -25,12 +25,16 @@ html {
     background-color: #363636!important;
 }
 
+.has-background-lighter-gray {
+    background-color: #7c7a7a!important;
+}
+
 .has-background-white {
     background-color: #F6F1F1!important;
 }
 
 .has-text-link {
-    color: #5eb7dd!important;
+    color: #386D6A!important;
 }
 
 

@@ -6,7 +6,7 @@ function Badge(props) {
     <div className="control">
       <div className="tags has-addons">
         <span className="tag is-dark">{props.text}</span>
-        <span className="tag is-success">
+        <span className="tag has-background-lighter-gray">
           <i className={faIcon}></i>
         </span>
       </div>
