@@ -6,7 +6,7 @@
     "picture": "images/mhelali.webp",
     "x_pictureFallback": "images/mhelali.jpg",
     "x_title": "About Me",
-    "summary": "I am a Site Reliability Engineer at Bayer who focuses on automating our team's development workflow and infrastructure. Previous to my experience at Bayer, I worked as a Software Developer, creating and maintaining web platforms in the Healthcare industry, after graduating from Lindenwood University with a double major in Computer Science and Mathematics. I have gained additional experience by participating in Hackathons and contributing to open-source and nonprofit projects. ",
+    "summary": "I am an SRE with 3 years of experience, among 5 total years in the technology industry. Transitioning from full-stack development to DevOps, I have helped companies scale their applications while maintaining high availability, reliability, and security. I have improved developer's tools and CI/CD that resulted in speeding up the shipping rate to production, all while setting up SLOs so we stay within our error budgets.",
     "location": {
       "country": "Online",
       "countryCode": "USA",
@@ -41,11 +41,20 @@
   },
   "work": [
     {
+      "company": "Apptio",
+      "position": "Site Reliability Engineer II",
+      "website": "https://www.apptio.com",
+      "startDate": "2022-02-02",
+      "endDate": "",
+      "summary": "Maintain and develop on top of our Kuberenetes resources using kr8 configurations. Create alerts, monitor them and send them to the right channels for critical production services. Speed up our build processes via CI/CD automation in ArgoCD. Monitor SSL certificate expiration via tools such as Datadog Agent",
+      "highlights": []
+    },
+    {
       "company": "Bayer",
       "position": "Site Reliability Engineer",
       "website": "https://www.bayer.com",
       "startDate": "2020-08-17",
-      "endDate": "",
+      "endDate": "2022-02-01",
       "summary": "Focus on CI/CD to improve our development process. Automation our infrastructure creation and destruction via terraform to generate ephemeral resources. Build and operate fault-tolerant, distributed, cloud-based systems. Design, build, and operate Big Data, stream processes, and/or enterprise data integration solutions, Make use of container technologies (Docker), service orchestration and micro services architectures",
       "highlights": []
     },
@@ -56,33 +65,6 @@
       "startDate": "2019-08-11",
       "endDate": "2020-08-14",
       "summary": "I worked within the CAPI team as a full stack developer. I created, developed, maintained, and scaled angular applications as my front-end work, while using Golang and MongoDB to accomplish back-end tasks. I also focused on catching up with our technological debt by writing unit and integration tests. I got to use many new libraries and learn awesome industry-level concepts and skills such as containerization and container management using Docker and Kubernetes.",
-      "highlights": []
-    },
-    {
-      "company": "Lindenwood University",
-      "position": "Research Assistant",
-      "website": "https://www.lindenoowd.edu",
-      "startDate": "2018-07-20",
-      "endDate": "2019-05-10",
-      "summary": "Worked on adding/removing content on the Android app used by the school of education for research on early stages of Autism. Created landing web page for the Android application. Created terms of use, privacy policies, and disclaimers. Distributed application to users and troubleshooted issues",
-      "highlights": []
-    },
-    {
-      "company": "Centene Corporation",
-      "position": "IT Intern",
-      "website": "https://www.centene.com",
-      "startDate": "2017-11-01",
-      "endDate": "2018-06-10",
-      "summary": "Worked within the Centene API team on cloud native applications. My team used the Agile Methodology. Learned and developed front end applications using TypeScript, and Angular. Created Angular components, services, and pipes. Implemented e2e and unit tests using Protractor and Karma. In order to diversify my experience, I worked with the backend team on creating Restful APIs to connect to mongoDB servers using the Go language. Attended SSG Security bootcamp where I learned about application security and input validation. Learned about the containerization of apps using docker. Finally, I took my Ping Pong skills to another level through playing with coworkers during breaks.",
-      "highlights": []
-    },
-    {
-      "company": "Lindenwood University",
-      "position": "Math Tutor",
-      "website": "https://www.lindenoowd.edu",
-      "startDate": "2016-12-15",
-      "endDate": "2017-05-10",
-      "summary": "Guided students in the correct direction for the application of coding in various languages; Java, JavaScript, C++. Helped building simulations and games with Java using Greenfoot. Aided on building static websites and basic web applications using HTML, CSS and JavaScript. Tutored different mathematics classes such as College Algebra, PreCalculus, Calculus I to III, Advanced Calculus, and Discrete Structures.",
       "highlights": []
     }
   ],
@@ -113,6 +95,11 @@
       "keywords": ["Ops", "IaC", "Infrastructure As Code"]
     },
     {
+      "name": "Kubernetes",
+      "level": "Advanced",
+      "keywords": ["Ops"]
+    },
+    {
       "name": "Bash",
       "level": "Advanced",
       "keywords": ["Ops"]
@@ -121,11 +108,6 @@
       "name": "Docker",
       "level": "Intermediate",
       "keywords": ["Ops", "Container", "Containerization"]
-    },
-    {
-      "name": "Kubernetes",
-      "level": "Intermediate",
-      "keywords": ["Ops"]
     },
     {
       "name": "Jenkins",
@@ -148,23 +130,23 @@
       "keywords": ["Dev"]
     },
     {
-      "name": "REST APIs",
+      "name": "Git",
       "level": "Advanced",
       "keywords": ["Dev"]
     },
     {
-      "name": "Angular",
+      "name": "REST APIs",
+      "level": "Intermediate",
+      "keywords": ["Dev"]
+    },
+    {
+      "name": "Python",
       "level": "Intermediate",
       "keywords": ["Dev"]
     },
     {
       "name": "NodeJS",
       "level": "Intermediate",
-      "keywords": ["Dev"]
-    },
-    {
-      "name": "gRPC",
-      "level": "Basic",
       "keywords": ["Dev"]
     },
     {
