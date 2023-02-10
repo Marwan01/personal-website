@@ -28,28 +28,28 @@ html {
 
 .green {
     background-color: #f4c0a4!important;
-    color: #d2ecf1
+    color: #214fc2
 }
 
 .tag:not(body).is-success{
-    background-color: #69c2c2;
+    background-color: #214fc2;
 }
 
 .timeline.is-centered .timeline-item.is-success::before {
-    background-color: #69c2c2;
+    background-color: #214fc2;
 }
 
 .timeline .timeline-item .timeline-marker.is-image {
-    border-color: #69c2c2;
+    border-color: #214fc2;
 }
 
 .timeline .timeline-item .timeline-marker.is-success {
-    background-color: #69c2c2!important;
-    border-color: #69c2c2!important;
+    background-color: #214fc2!important;
+    border-color: #214fc2!important;
 }
 
 a {
-    color: #69c2c2
+    color: #214fc2
 }
 
 .bulma-image {
