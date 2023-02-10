@@ -10,8 +10,8 @@ function ProgressBar(props) {
   return (
     <div>
       <span className="title is-5 is-spaced">{props.text}</span>
-      <span style={{color:"#214fc2"}} className="subtitle is-6 skill-percentage">{props.level}</span>
-      <progress
+      <span className="subtitle is-6 skill-percentage">{props.level}</span>
+      <progress style={{color:"#214fc2"}} 
         className="progress"
         value={progress[props.level]}
         max="100"
