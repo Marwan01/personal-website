@@ -101,18 +101,13 @@
     },
     {
       "name": "Bash",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": ["Ops"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
       "keywords": ["Ops", "Container", "Containerization"]
-    },
-    {
-      "name": "Jenkins",
-      "level": "Intermediate",
-      "keywords": ["Ops"]
     },
     {
       "name": "AWS",
